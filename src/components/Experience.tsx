@@ -1,9 +1,9 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { FaAws, FaReact, FaNodeJs, FaDocker } from "react-icons/fa";
+import { FaReact, FaNodeJs, FaDocker } from "react-icons/fa";
 import { SiTypescript, SiTailwindcss, SiNextdotjs, SiLaravel, SiPython, SiPostgresql, SiMongodb, SiRedis } from "react-icons/si";
-import { DiJava, DiJavascript, DiHtml5, DiCss3 } from "react-icons/di";
+import { DiJavascript, DiHtml5, DiCss3 } from "react-icons/di";
 
 const technologies = [
   { icon: <SiNextdotjs size={40} />, name: "Next.js" },

@@ -1,4 +1,3 @@
-import { motion } from "framer-motion";
 import Head from "next/head";
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";

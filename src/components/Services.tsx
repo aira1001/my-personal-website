@@ -1,6 +1,6 @@
 "use client";
 import { motion } from "framer-motion";
-import { FiCode, FiDatabase, FiServer, FiCpu, FiVideo, FiLayers } from "react-icons/fi";
+import { FiCode, FiDatabase, FiServer, FiLayers } from "react-icons/fi";
 
 const services = [
   {
