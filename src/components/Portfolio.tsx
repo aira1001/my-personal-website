@@ -8,28 +8,28 @@ const projects = [
     id: 1,
     title: "Simplified Cooperative Management",
     category: "Admin Dashboard",
-    description: "Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    description : "A Next.js & TypeScript-powered website for seamless cooperative management—helping admins and members track finances with ease! 💡💰 Built with: Next.js, Chakra UI,  TypeScript & React Query Clean, fast, and efficient! ⚡",
     image: "/Koperasi simpanan.PNG",
   },
   {
     id: 2,
     title: "SmartPlanning Insights – Visual Monitoring for Smarter Decisions",
     category: "Admin Dashboard",
-    description: "Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    description: "Never let your plants go thirsty! This IoT-powered smart watering system uses Arduino automation and a sleek React.js dashboard to monitor soil moisture, control watering remotely, and keep your greens happy—from anywhere! Built with Node.js + PostgreSQL for a rock-solid backend. Smart plants, simpler life! 🌱✨",
     image: '/page sensor line chart.PNG',
   },
   {
     id: 3,
     title: "Seamless Order Management System",
     category: "Admin Dashboard",
-    description: "Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    description: "This project is a Super Admin Dashboard for restaurant management, built with Next.js, TypeScript, and React Query. It allows superadmins to control admins, drivers, orders, and promotions, with advanced reporting, filters, and pagination for seamless operations.",
     image: "/tebasari dashboard.PNG",
   },
   {
     id: 4,
     title: "Educational Portfolio Website",
     category: "Profile Website",
-    description: "Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    description: "This project is a modern educational portfolio platform built with Next.js, TypeScript, and Tailwind CSS for a blazing-fast, responsive frontend experience. The website features a custom CMS powered by Laravel, allowing seamless content management for courses, projects, and educational materials.",
     image: '/imj porto.PNG'
   },
 ];
